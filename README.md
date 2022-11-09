@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RamManoharSingh
+- 👋 Hi, I’m @Ram
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning .NET,C#
 - 💞️ I’m looking to collaborate on ...
